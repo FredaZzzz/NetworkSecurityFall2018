@@ -1,2 +1,2 @@
-# NetworkSecurityFall2018
-Network Security Fall 2018 for JHU
+# NetworkSecuritySpring2019
+Network Security Spring 2019 for JHU
